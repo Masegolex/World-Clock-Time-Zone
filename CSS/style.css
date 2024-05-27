@@ -1,5 +1,9 @@
 body {
   background-color: #f9f7fe;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/127/604/original/earth-earth-at-night-night-lights-41949.jpeg?1716848704"); /* Replace with your image path */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   font-family: sans-serif;
 }
 
@@ -62,5 +66,5 @@ select {
 footer {
   text-align: center;
   font-size: 18px;
-  color: rgba(0, 0, 0, 0.8);
+  color: white;
 }
